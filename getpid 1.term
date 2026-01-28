@@ -1,0 +1,3 @@
+vi getpid1.c
+gcc getpid1.c
+./a.out

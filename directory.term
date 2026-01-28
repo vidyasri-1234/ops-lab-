@@ -1,0 +1,3 @@
+vi directory.c
+gcc directory.c
+./a.out

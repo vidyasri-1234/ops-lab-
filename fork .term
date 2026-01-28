@@ -1,0 +1,4 @@
+vi fork.c
+gcc fork.c
+./a.out
+vi fork.c
